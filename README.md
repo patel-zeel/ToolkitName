@@ -1,7 +1,7 @@
 ToolkitName
 ------
 
-Under Submission, SenSys 2020.
+Under Submission, SenSys 2020 (Archived now).
 
 This repository is a collection of several spatial interpolation algorithm along with various sensor placement algorithms. 
 
